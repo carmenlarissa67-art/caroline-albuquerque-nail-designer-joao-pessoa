@@ -22,8 +22,8 @@ export const studioConfig = {
   addressNote: "Residencial Canaã 1, perto do Bairro das Indústrias",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Caroline+Albuquerque+Nail+Designer,+R.+Panamá,+Mumbaba,+João+Pessoa+-+PB",
-  whatsappNumber: "5583988060753", // Apenas dígitos com DDI e DDD
-  whatsappDisplay: "(83) 98806-0753",
+  whatsappNumber: "5515981085930", // Apenas dígitos com DDI e DDD
+  whatsappDisplay: "(15) 98108-5930",
   instagramHandle: "@carolalbuquerquenails_",
   instagramUrl: "https://www.instagram.com/carolalbuquerquenails_",
   // Link do Calendly. Na demo usamos a agenda de teste; na entrega vai o da Carol.
